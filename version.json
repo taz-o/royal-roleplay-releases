@@ -1,6 +1,6 @@
 {
-  "notes": "v3.2.3: ნულოვანი ზომა ცარიელობას აღარ ნიშნავს",
+  "notes": "v3.2.4: მოდალს მომრგვალებული კიდეები აღარ ეჭრება",
+  "version": "3.2.4",
   "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "sha256": "683fff520b5bd7be8077cdb93608a5e51794ec0a02882505b642e0224be417d8",
-  "version": "3.2.3"
+  "sha256": "d21cba5633605d9be4eb915bcac0a7f2ac7828372515afa517331adea8ceba46"
 }
