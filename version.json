@@ -1,6 +1,6 @@
 {
-  "sha256": "bf812538ac7e12853052d240cc6487ef43b6c478053850db7d022f1c41595f20",
+  "notes": "v3.2.3: ნულოვანი ზომა ცარიელობას აღარ ნიშნავს",
   "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "notes": "v3.2.2: განახლების არხი ერთ ჰოსტზე აღარ არის მიბმული",
-  "version": "3.2.2"
+  "sha256": "683fff520b5bd7be8077cdb93608a5e51794ec0a02882505b642e0224be417d8",
+  "version": "3.2.3"
 }
