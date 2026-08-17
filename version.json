@@ -1,6 +1,6 @@
 {
-  "sha256": "3fe7215d8d2b47516fdaa2eba7c2d588e31080cb4604e948d0d72cf6557608db",
-  "notes": "v3.3.0: ლაუნჩერი თავად ნაცვლდება",
   "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "version": "3.3.0"
+  "notes": "v3.3.1: სატესტო გამოშვება — self-update ცოცხალ აპში მოწმდება",
+  "version": "3.3.1",
+  "sha256": "f09373329c907abf650250d5c1a9e0596cd61ff8c2928337cacbf88948131a31"
 }
