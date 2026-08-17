@@ -1,6 +1,6 @@
 {
-  "notes": "v3.2.4: მოდალს მომრგვალებული კიდეები აღარ ეჭრება",
-  "version": "3.2.4",
+  "sha256": "3fe7215d8d2b47516fdaa2eba7c2d588e31080cb4604e948d0d72cf6557608db",
+  "notes": "v3.3.0: ლაუნჩერი თავად ნაცვლდება",
   "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "sha256": "d21cba5633605d9be4eb915bcac0a7f2ac7828372515afa517331adea8ceba46"
+  "version": "3.3.0"
 }
