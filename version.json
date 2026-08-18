@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "notes": "v3.3.1: სატესტო გამოშვება — self-update ცოცხალ აპში მოწმდება",
-  "version": "3.3.1",
-  "sha256": "f09373329c907abf650250d5c1a9e0596cd61ff8c2928337cacbf88948131a31"
+  "version": "3.3.2",
+  "notes": "v3.3.2: ინტერფეისის ქართული გასწორდა",
+  "sha256": "26c177519aeaf385dd343b1d89730944698aa3b2cdc6c51118f5e0e8fdabd564"
 }
